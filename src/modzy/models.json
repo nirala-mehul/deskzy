@@ -1,0 +1,26 @@
+{
+  "audioKeywordSpotting": {
+    "identifier": "s25ge4ufw4",
+    "version": "0.0.1"
+  },
+  "nameEntityRecognition": {
+    "identifier": "a92fc413b5",
+    "version": "0.0.12"
+  },
+  "sentimentAnalysis": {
+    "identifier": "ed542963de",
+    "version": "1.0.1"
+  },
+  "textSummary": {
+    "identifier": "rs2qqwbjwb",
+    "version": "0.0.2"
+  },
+  "textTopics": {
+    "identifier": "m8z2mwe3pt",
+    "version": "0.0.1"
+  },
+  "textToSpeech": {
+    "identifier": "uvdncymn6q",
+    "version": "0.0.2"
+  }
+}
